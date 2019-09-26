@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "test": "node /docs/.vuepress/config.js",
     "build": "vuepress dev build"
   },
   "repository": {
